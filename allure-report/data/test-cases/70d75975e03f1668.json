@@ -1,0 +1,81 @@
+{
+  "uid" : "70d75975e03f1668",
+  "name" : "test_signupbyfb",
+  "fullName" : "mypack.test_signup#test_signupbyfb",
+  "historyId" : "3c040aa75a5aac0384b502555e09848e",
+  "time" : {
+    "start" : 1593701111882,
+    "stop" : 1593701111882,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1593701111881,
+      "stop" : 1593701111881,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "setup::0",
+    "time" : {
+      "start" : 1593701111882,
+      "stop" : 1593701111882,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "mypack"
+  }, {
+    "name" : "suite",
+    "value" : "test_signup"
+  }, {
+    "name" : "host",
+    "value" : "FNB-168"
+  }, {
+    "name" : "thread",
+    "value" : "18408-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "mypack.test_signup"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "70d75975e03f1668.json",
+  "parameterValues" : [ ]
+}

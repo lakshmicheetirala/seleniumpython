@@ -1,0 +1,21 @@
+[ {
+  "uid" : "b7db17474b0c144c",
+  "name" : "test_signupbyfb",
+  "time" : {
+    "start" : 1593765212370,
+    "stop" : 1593765212370,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "96ad8644629e5bf1",
+  "name" : "test_signupbyemail",
+  "time" : {
+    "start" : 1593765212358,
+    "stop" : 1593765212358,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
